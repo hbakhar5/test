@@ -1,0 +1,23 @@
+h1{
+    color:red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    height: 80px;
+    width:100px;
+}
+
+a:link,a:visited{
+    background-color:rgb(230, 237, 243);
+    margin-left: 20px;
+    display:inline-block;
+
+}
+
+a:hover,a:active{
+    background-color: brown;
+}
